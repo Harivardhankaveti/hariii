@@ -3,6 +3,3 @@ hey hi i am harivardhan
 studying in GRIET
 <br>
 Babu lake babu Mahesh Babu
-<br>
-
-this  is an old feature
